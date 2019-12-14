@@ -12,7 +12,7 @@ public class A {
     }
 
       public C createCObj() {
-        System.out.println("A 的实例方法 createCObj 被调用了.");
+        System.out.println("A 的实例方法 createCObj 被调用了asdf .");
         return new C();
     }
 
